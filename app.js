@@ -126,11 +126,10 @@ let info = message.guild.member(message.mentions.users.first()) || message.guild
       let member = message.mentions.members.first();
       let mention = message.mentions.users.first();
 var role = member.guild.roles.find('name', 'Verified');
-member.addrole(role)
 }
 if(msg === prefix + 'ACADEMY') {
 message.channel.send('@everyone Go to academy get more activites https://web.roblox.com/games/1256144054/NA-Asker-Academy-V1#');
-
+}
 
 
 
@@ -139,3 +138,4 @@ message.channel.send('@everyone Go to academy get more activites https://web.rob
 
 
 bot.login('MzkzOTg3NTc1MTk2NTQ5MTMw.DR9xTg.ovf2No5Gpq_9behGgZjYWTswVO0')
+
