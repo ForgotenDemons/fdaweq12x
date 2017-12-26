@@ -93,7 +93,7 @@ let usrinfo = new Discord.RichEmbed()
 .addField('Status', message.author.presence.status)
 .addField('Registered', message.author.createdAt)
 .addField('Joined Server', message.guild.joinedAt)
-.setThumbnail(message.author.displayAvatarURL)
+.setThumbnail(message.author.displayAvatarURL);
 message.channel.send({embed: usrinfo});
 return;
 }
