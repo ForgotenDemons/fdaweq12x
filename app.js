@@ -234,5 +234,5 @@ message.channel.send('@everyone Go to academy get more activites https://web.rob
 
 
 
-bot.login('MzkzOTg3NTc1MTk2NTQ5MTMw.DR9xTg.ovf2No5Gpq_9behGgZjYWTswVO0')
+bot.login('Mzk1MTMyNjQxMDE3NTkzODU2.DSOb0w.WiSowJIszUy8qG9R7MWb4rr8Cr4')
 
